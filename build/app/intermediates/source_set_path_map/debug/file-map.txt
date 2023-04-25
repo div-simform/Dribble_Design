@@ -1,0 +1,12 @@
+com.example.divyang_dribble_design.app-jetified-annotation-experimental-1.1.0-0 /Users/divyang/.gradle/caches/transforms-3/40aebe7700795438adbd3daab7ae1ff9/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.divyang_dribble_design.app-core-1.6.0-1 /Users/divyang/.gradle/caches/transforms-3/5f7c8bec4875ba55b1273d724949c5bc/transformed/core-1.6.0/res
+com.example.divyang_dribble_design.app-jetified-window-1.0.0-beta04-2 /Users/divyang/.gradle/caches/transforms-3/b734f4f2ef56619cfc425335a55b8ea1/transformed/jetified-window-1.0.0-beta04/res
+com.example.divyang_dribble_design.app-jetified-window-java-1.0.0-beta04-3 /Users/divyang/.gradle/caches/transforms-3/c2678c1ffee94a989fa2d7f64d09a82e/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.divyang_dribble_design.app-debug-4 /Users/divyang/StudioProjects/Dribble_Design/android/app/src/debug/res
+com.example.divyang_dribble_design.app-main-5 /Users/divyang/StudioProjects/Dribble_Design/android/app/src/main/res
+com.example.divyang_dribble_design.app-pngs-6 /Users/divyang/StudioProjects/Dribble_Design/build/app/generated/res/pngs/debug
+com.example.divyang_dribble_design.app-resValues-7 /Users/divyang/StudioProjects/Dribble_Design/build/app/generated/res/resValues/debug
+com.example.divyang_dribble_design.app-rs-8 /Users/divyang/StudioProjects/Dribble_Design/build/app/generated/res/rs/debug
+com.example.divyang_dribble_design.app-mergeDebugResources-9 /Users/divyang/StudioProjects/Dribble_Design/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.divyang_dribble_design.app-mergeDebugResources-10 /Users/divyang/StudioProjects/Dribble_Design/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.divyang_dribble_design.app-merged_res-11 /Users/divyang/StudioProjects/Dribble_Design/build/app/intermediates/merged_res/debug
